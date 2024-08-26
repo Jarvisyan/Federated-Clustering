@@ -3,8 +3,8 @@
 |  :---------  | :------      | :------  | :------ | 
 | :triangular_flag_on_post: [CCFC++: Enhancing Federated Clustering through Feature Decorrelation](https://arxiv.org/pdf/2402.12852) | arXiv, 2024 | Contrastive Clustering | - |
 | :triangular_flag_on_post: [CCFC: Bridging Federated Clustering and Contrastive Learning](https://arxiv.org/pdf/2401.06634) | arXiv, 2024 | Contrastive Clustering | https://github.com/Jarvisyan/CCFC-pytorch |
-| :triangular_flag_on_post: [Privacy-preserving federated deep clustering based on gan](https://arxiv.org/pdf/2211.16965) | arXiv, 2022 | synthetic data aided federated clustering | -|
-| :triangular_flag_on_post: [SDA-FC: Bridging Federated Clustering and Deep Generative Model](https://authors.elsevier.com/c/1jUSm4ZQEFi2c) | Information Sciences, 2024 | synthetic data aided federated clustering | https://github.com/Jarvisyan/SDA-FC|
+| :triangular_flag_on_post: [Privacy-preserving federated deep clustering based on gan](https://arxiv.org/pdf/2211.16965) | arXiv, 2022 | synthetic data aided clustering | -|
+| :triangular_flag_on_post: [SDA-FC: Bridging Federated Clustering and Deep Generative Model](https://authors.elsevier.com/c/1jUSm4ZQEFi2c) | Information Sciences, 2024 | synthetic data aided clustering | https://github.com/Jarvisyan/SDA-FC|
 | [One-shot Federated K-means Clustering based on Density Cores](https://d197for5662m48.cloudfront.net/documents/publicationstatus/187630/preprint_pdf/7403f405f3423690c27914ccf5c192b7.pdf) | Preprint, 2024 | density clustering | https://github.com/mlyizhang/FKDC|
 | [One-Shot Federated Clustering Based on Stable Distance Relationships](https://ieeexplore.ieee.org/document/10634982) | IEEE Transactions on Industrial Informatics, 2024 | density clustering | https://github.com/mlyizhang/nnfc|
 | [FedSpectral+: Spectral Clustering using Federated Learning](https://arxiv.org/pdf/2302.02137) | AAAI-Workshop, 2023 | spectral clustering | -|
