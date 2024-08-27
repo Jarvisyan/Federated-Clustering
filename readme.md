@@ -10,7 +10,7 @@
 | [FedSpectral+: Spectral Clustering using Federated Learning](https://arxiv.org/pdf/2302.02137) | AAAI-Workshop, 2023 | spectral clustering | -|
 | [Federated spectral clustering via secure similarity reconstruction](https://proceedings.neurips.cc/paper_files/paper/2023/file/b6cd2650926d332c86a84c48529cc421-Paper-Conference.pdf) | NIPS, 2023 | spectral clustering | https://github.com/jicongfan/Federated-Spectral-Clustering|
 | [Federated deep multi-view clustering with global self-supervision](https://arxiv.org/pdf/2309.13697) | ACM MM, 2023 | Deep Multi-View Clustering | -|
-| [An Efficient Federated Multi-view Fuzzy C-Means Clustering Method](https://ieeexplore.ieee.org/document/10330655) | IEEE Transactions on Fuzzy Systems, 2023 | fuzzy c-means | -|
+| [An Efficient Federated Multi-view Fuzzy C-Means Clustering Method](https://ieeexplore.ieee.org/document/10330655) | IEEE Transactions on Fuzzy Systems, 2023 | Multi-View Clustering | -|
 | [Federated Momentum Contrastive Clustering](https://arxiv.org/pdf/2206.05093) | ACM Transactions on Intelligent Systems and Technology, 2022 | Contrastive Clustering | -|
 | [Federated Matrix Factorization: Algorithm Design and Application to Data Clustering](https://arxiv.org/pdf/2002.04930) | IEEE Transactions on Signal Processing, 2022 | NMF | https://github.com/wshuai317/FedMF|
 | [Towards Federated Clustering: A Federated Fuzzy c-Means Algorithm (FFCM)](https://arxiv.org/pdf/2201.07316) | AAAI-Workshop, 2022 | fuzzy c-means | https://github.com/stallmo/federated_clustering|
