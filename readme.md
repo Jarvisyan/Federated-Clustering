@@ -1,3 +1,13 @@
+# Federated clustering
+
+Federated clustering plays a crucial role in resolving the challenge of clustering non-IID data across devices and organizations (i.e. clients) by leveraging distributed data processing and privacy-preserving techniques, enhancing both efficiency and security.
+
+Although the field holds considerable importance, it has not yet garnered widespread attention.
+
+# About us
+To draw the community's attention to this research field and make it more accessible to newcomers, we created this repository, summarizing relevant papers and corresponding code sources.
+
+
 ### Paper List
 |    Title    |  Publication  | Type     | Code |
 |  :---------  | :------      | :------  | :------ | 
