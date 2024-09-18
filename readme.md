@@ -5,10 +5,11 @@ Federated clustering plays a crucial role in resolving the challenge of clusteri
 Although the field holds considerable importance, it has not yet garnered widespread attention.
 
 # About us
-To draw the community's attention to this research field and make it more accessible to newcomers, we created this repository, summarizing relevant papers and corresponding code sources.
+To draw the community's attention to this research field and make it more accessible to newcomers, we created this repository, summarizing relevant papers and corresponding code sources. 
 
+This repository will be regularly maintained with updates. We are looking forward to any comments or discussions on this topic!
 
-### Paper List
+# Paper List
 |    Title    |  Publication  | Type     | Code |
 |  :---------  | :------      | :------  | :------ | 
 | :triangular_flag_on_post: [CCFC++: Enhancing Federated Clustering through Feature Decorrelation](https://arxiv.org/pdf/2402.12852) | arXiv, 2024 | Contrastive Clustering | - |
