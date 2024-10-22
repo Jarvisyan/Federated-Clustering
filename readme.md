@@ -30,5 +30,7 @@ This repository will be regularly maintained with updates. We are looking forwar
 | [Federated c-means and Fuzzy c-means Clustering Algorithms for Horizontally and Vertically Partitioned Data](https://ieeexplore.ieee.org/document/10595840) | IEEE Transactions on Artificial Intelligence, 2024 | fuzzy c-means | -|
 | [Towards Federated Clustering: A Federated Fuzzy c-Means Algorithm (FFCM)](https://arxiv.org/pdf/2201.07316) | AAAI-Workshop, 2022 | fuzzy c-means | https://github.com/stallmo/federated_clustering|
 | [Jigsaw Game: Federated Clustering](https://arxiv.org/abs/2407.12764) | TMLR, 2022 | deep k-means | -|
+| [Greedy centroid initialization for federated K-means](https://link.springer.com/article/10.1007/s10115-024-02066-x#:~:text=In%20federated%20K%2Dmeans%2C%20existing,determines%20its%20initial%20centroids%20based) |  Knowledge and Information Systems, 2024 | k-means | -|
+| [Federated K-Means Clustering via Dual Decomposition-based Distributed Optimization](https://arxiv.org/abs/2307.13267) | arXiv, 2023 | k-means | -|
 | [Secure Federated Clustering](https://arxiv.org/abs/2205.15564) | arXiv, 2022 | k-means | -|
 | [Heterogeneity for the Win: One-Shot Federated Clustering](http://proceedings.mlr.press/v139/dennis21a/dennis21a.pdf) | ICML, 2021 | k-means | https://github.com/xsaga/kfed-rounded|
