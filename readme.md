@@ -34,3 +34,4 @@ This repository will be regularly maintained with updates. We are looking forwar
 | [Federated K-Means Clustering via Dual Decomposition-based Distributed Optimization](https://arxiv.org/abs/2307.13267) | arXiv, 2023 | k-means | -|
 | [Secure Federated Clustering](https://arxiv.org/abs/2205.15564) | arXiv, 2022 | k-means | -|
 | [Heterogeneity for the Win: One-Shot Federated Clustering](http://proceedings.mlr.press/v139/dennis21a/dennis21a.pdf) | ICML, 2021 | k-means | https://github.com/xsaga/kfed-rounded|
+| [Federated Clustering for Electricity Consumption Pattern Extraction] | IEEE Transactions on Smart Grid, 2023 | k-means | -|
