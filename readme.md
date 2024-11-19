@@ -1,6 +1,6 @@
 # Federated clustering
 
-Federated clustering plays a crucial role in resolving the challenge of clustering non-IID data across devices and organizations (i.e. clients) by leveraging distributed data processing and privacy-preserving techniques, enhancing both efficiency and security.
+Federated clustering (FC) plays a crucial role in resolving the challenge of clustering non-IID data across devices and organizations (i.e. clients) by leveraging distributed data processing and privacy-preserving techniques, enhancing both efficiency and security.
 
 Although the field holds considerable importance, it has not yet garnered widespread attention.
 
@@ -9,7 +9,7 @@ To draw the community's attention to this research field and make it more access
 
 This repository will be regularly maintained with updates. We are looking forward to any comments or discussions on this topic!
 
-# Paper List
+# FC Zoo
 |    Title    |  Publication  | Type     | Code |
 |  :---------  | :------      | :------  | :------ | 
 | :triangular_flag_on_post: [CCFC++: Enhancing Federated Clustering through Feature Decorrelation](https://arxiv.org/pdf/2402.12852) | arXiv, 2024 | Contrastive Clustering | - |
